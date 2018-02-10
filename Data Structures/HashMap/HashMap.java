@@ -279,5 +279,8 @@ public class HashMap<K,V> {
 		}
 		
 	}
+	public static void testGit(){
+		System.out.println("This is Git test");
+	}
 }
 >>>>>>> 7e3a8c55c865471a33f6932a022a1059c5243fc3:data_structures/HashMap/HashMap.java
